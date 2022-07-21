@@ -1,0 +1,21 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.title {
+  font-size: 1.2rem;
+  font-weight: 400;
+}
+
+.blue {
+  color: blue;
+}
+
+.green {
+  color: green;
+}
+
+.salmon {
+  color: salmon;
+}

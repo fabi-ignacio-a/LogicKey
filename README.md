@@ -1,2 +1,2 @@
-# LogicKey
+# PrimerComponenteReact
 Created with CodeSandbox
